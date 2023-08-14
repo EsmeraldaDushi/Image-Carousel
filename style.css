@@ -5,6 +5,7 @@
 
 
 body {
+    background-color: grey;
     font-family: "Roboto", sans-serif;
     display:flex;
     align-items: center;
